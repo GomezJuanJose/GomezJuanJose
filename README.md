@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Jose Gomez [@GomezJuanJose] from Spain!
 - 📫 How to reach me: gjuanjo1999@gmail.com
-- 🌐 My portfolio: https://JuanJoseGomezSimon.github.io
+- 🌐 My portfolio: [https://JuanJoseGomezSimon.github.io](https://gomezjuanjose.github.io/)
 
 <!---
 GomezJuanJose/GomezJuanJose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

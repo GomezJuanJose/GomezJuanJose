@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Jose Gomez [@GomezJuanJose] from Spain!
-- 📫 How to reach me: gjuanjo1999@gmail.com
+- 📫 How to reach me: gs.juanjose.1999@gmail.com
 - 🌐 My portfolio: [gomezjuanjose.github.io](https://gomezjuanjose.github.io/)
 
 <!---
